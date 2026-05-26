@@ -2,7 +2,7 @@
 
 # 🌟 Awesome Large Model Self-Distillation
 
-**A curated reading list for self-distillation in LLMs, MLLMs, reasoning models, diffusion LMs, and large generative models.**
+**A curated reading list for awesome self-distillation works in LLMs, MLLMs, reasoning models, diffusion LMs, and large generative models.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Papers](https://img.shields.io/badge/2026%20Papers-26-blue)
